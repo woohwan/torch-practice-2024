@@ -124,6 +124,8 @@ celerybeat.pid
 *.sage.py
 
 # except data
+**/lightning_logs
+**/MNIST
 **/data
 
 # Environments
